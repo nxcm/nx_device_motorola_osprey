@@ -20,7 +20,8 @@ TARGET_SCREEN_HEIGHT := 1280
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := osprey
-PRODUCT_NAME := cm_osprey
+PRODUCT_NAME := nx_osprey
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := osprey
+NX_MODEL_NAME := Moto G (2015)

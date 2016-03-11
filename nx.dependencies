@@ -1,0 +1,37 @@
+[
+  {
+    "remote":      "github",
+    "repository": "moto8916/android_device_motorola_msm8916-common",
+    "target_path": "device/motorola/msm8916-common",
+    "revision":   "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository": "moto8916/android_kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916",
+    "revision":   "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository": "CyanogenMod/android_external_bson",
+    "target_path": "external/bson",
+    "revision":   "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository": "CyanogenMod/android_external_stlport",
+    "target_path": "external/stlport",
+    "revision":   "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":   "cm-13.0"
+  },
+  {
+    "remote":      "bitbucket",
+    "repository":  "nexusxm/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola"
+  }
+]
